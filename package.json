@@ -1,0 +1,24 @@
+{
+  "name": "@developers-ci/helloworld",
+  "version": "0.0.2",
+  "description": "Aplicación de referencia para los futuros paquetes en NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevelopersCI/helloworld.git"
+  },
+  "keywords": [
+    "test",
+    "package",
+    "testing"
+  ],
+  "author": "Steeve Luis Angel Torres Agustin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevelopersCI/helloworld/issues"
+  },
+  "homepage": "https://github.com/DevelopersCI/helloworld#readme"
+}
